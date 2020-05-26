@@ -1,29 +1,46 @@
 body{
-  background-color: white;
+  background-color: aliceblue;
 }
 
 h1{
-  background-color: aliceblue;
+  background-color: pink;
   margin: 0 auto;
-  font-size: 30px;
+  width: 50%;
+  font-size: 70px;
   color: black;
   font-weight: bold;
 }
+h2{
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+} 
 h3{
-  background-color: aliceblue;
-  font-size: 30px;
+  margin: 0 auto;
+  width: 50%;
+  background-color: pink;
+  font-size: 40px;
   color: black;
   font-weight: bold;
 } 
 h5{
-  background-color: aliceblue;
-  font-size: 30px;
+  background-color: whitesmoke;
+  font-size: 40px;
+  text-align: center;
   color: black;
   font-weight: bold;
 }
-p1{
-  background-color: white;
-  font-size:15px;
-  color: pink;
+p{
+  font-size:30px;
+  color: rgb(100, 45, 100);
+  font-weight: bold;
+}
+img{
+  width: 50%;
+  height: auto;
+}
+li{
+  font-size: 25px;
+  color: blue;
   font-weight: bold;
 }
