@@ -4,12 +4,19 @@ body{
 
 h1{
   background-color: aliceblue;
+  margin: 0 auto;
   font-size: 30px;
   color: pink;
   font-weight: bold;
 }
-p1{
+h3{
   background-color: aliceblue;
+  font-size: 30px;
+  color: pink;
+  font-weight: bold;
+} 
+p1{
+  background-color: white;
   font-size:15px;
   color: black;
   font-weight: bold;
